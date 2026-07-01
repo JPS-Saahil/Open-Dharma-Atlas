@@ -22,6 +22,8 @@ Rather than keeping the material as disconnected notes, the project arranges the
 
 The focus is on clarity, structure, and long-term usability.
 
+**This documentation is a work in progress. The structure presented here is an evolving blueprint and may change as research continues. It is not the final architecture of the project.**
+
 ---
 
 ## Repository Links
