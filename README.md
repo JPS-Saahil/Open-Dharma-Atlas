@@ -26,7 +26,8 @@ The focus is on clarity, structure, and long-term usability.
 
 ## Repository Links
 
-Repository: `<REPO_URL>`
+Repository: 
+https://github.com/JPS-Saahil/Open-Dharma-Atlas.git
 
 Clone:
 
@@ -177,10 +178,10 @@ Core Knowledge System
 │       ├── Dhanurveda      — archery / warfare
 │       ├── Gandharvaveda   — music, dance, arts
 │       └── Arthashastra    — statecraft / economics
-│           (variant: Sthapatyaveda — architecture)
+│           (variant: Sthapatyaveda architecture)
 │
-├── Smriti (remembered tradition — paurusheya, authored)
-│   ├── Upangas (4 traditional "sub-limbs" — often the most overlooked layer)
+├── Smriti (remembered tradition paurusheya, authored)
+│   ├── Upangas (4 traditional "sub-limbs" often the most overlooked layer)
 │   │   ├── Nyaya            — logic (name shared with the Darshana)
 │   │   ├── Mimamsa          — exegesis (covers both Purva & Uttara Mimamsa)
 │   │   ├── Itihasa-Purana   — "the fifth Veda" (see 5B3–5B4)
@@ -202,7 +203,7 @@ Core Knowledge System
 │   └── auxiliary Smriti traditions (Grihya customs, regional Achara texts, etc.)
 │
 ├── Darshanas (philosophical systems / "viewpoints")
-│   ├── Astika (6 — accept Vedic authority), traditionally paired
+│   ├── Astika (6 accept Vedic authority), traditionally paired
 │   │   ├── Nyaya            ─┐ pair 1: epistemology & physics
 │   │   ├── Vaisheshika      ─┘
 │   │   ├── Samkhya          ─┐ pair 2: metaphysics & practice
@@ -228,7 +229,7 @@ Core Knowledge System
 │
 └── Agama / Tantra literature TWO related but distinct classifications:
     │
-    ├── (a) The Agama textual corpus proper — 3 branches
+    ├── (a) The Agama textual corpus proper 3 branches
     │   ├── Shaiva Agamas       (~28 canonical texts)
     │   ├── Vaishnava Agamas    (~108, aka Pancharatra Samhitas)
     │   │   ├── Pancharatra
