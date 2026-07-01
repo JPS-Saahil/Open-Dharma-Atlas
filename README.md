@@ -191,7 +191,7 @@ Core Knowledge System
 │   │   │   └── Purana
 │   │   │       ├── 18 Mahapuranas (full list, 5B4)
 │   │   │       └── 18 Upapuranas (variable list, 5B4)
-│   │   └── Dharmashastra    — codes of law & conduct (the Smritis proper)
+│   │   └── Dharmashastra  codes of law & conduct (the Smritis proper)
 │   │
 │   ├── Sutra Literature (practical support; overlaps with Vedanga/Kalpa)
 │   │   ├── Shrauta Sutra
@@ -220,13 +220,13 @@ Core Knowledge System
 │   │           ├── Dvaitadvaita, Shuddhadvaita, Achintya Bheda Abheda...
 │   │           └── other sampradaya-linked sub-schools
 │   │
-│   └── Nastika (3 core — do not accept Vedic authority as supreme)
+│   └── Nastika (3 core do not accept Vedic authority as supreme)
 │       ├── Bauddha (Buddhism)
 │       ├── Jaina (Jainism)
 │       └── Charvaka / Lokayata (materialism)
-│       [Ajivika is often added as a 4th in broader classifications — see 6.4]
+│       [Ajivika is often added as a 4th in broader classifications see 6.4]
 │
-└── Agama / Tantra literature — TWO related but distinct classifications:
+└── Agama / Tantra literature TWO related but distinct classifications:
     │
     ├── (a) The Agama textual corpus proper — 3 branches
     │   ├── Shaiva Agamas       (~28 canonical texts)
@@ -235,7 +235,7 @@ Core Knowledge System
     │   │   └── Vaikhanasa
     │   └── Shakta Agamas / Tantras  (~64)
     │
-    └── (b) The Shanmata — six-fold Smarta worship tradition
+    └── (b) The Shanmata six-fold Smarta worship tradition
         (organizes household/temple worship around six deities;
          popularized by Adi Shankaracharya; not itself a 4th Agama branch)
         ├── Shaiva     → Shiva
