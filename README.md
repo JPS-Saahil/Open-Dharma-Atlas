@@ -5,7 +5,7 @@
 [![Scope](https://img.shields.io/badge/Scope-Śruti%20%26%20Vedas-0f766e.svg)](#overview)
 [![Format](https://img.shields.io/badge/Format-GitHub%20README-111827.svg)](#)
 
-> A clean, structured reference on **Śruti** — the revealed foundation of Vedic knowledge, its internal organization, and its place in Hindu tradition.
+> A clean, structured reference on **Śruti** the revealed foundation of Vedic knowledge, its internal organization, and its place in Hindu tradition.
 
 ---
 
