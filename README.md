@@ -31,7 +31,7 @@ Repository: `<REPO_URL>`
 Clone:
 
 ```bash
-git clone <REPO_URL>.git
+git clone https://github.com/JPS-Saahil/Open-Dharma-Atlas.git
 ```
 
 ---
@@ -133,85 +133,118 @@ Sanātana Dharma
 
 ---
 
-## High-Level Mermaid Tree
+## High-Level Tree
 
-```mermaid
-flowchart TD
-    A[Sanātana Dharma] --> B[Vedas]
-    A --> C[Vedāṅgas]
-    A --> D[Upavedas]
-    A --> E[Upāṅgas]
-    A --> F[Darśanas]
-    A --> G[Vedānta]
-    A --> H[Āgamas]
+```text
+Core Knowledge System
+├── Shruti (revealed / heard apaurusheya, authorless)
+│   ├── 4 Vedas
+│   │   ├── Rigveda
+│   │   │   ├── Samhita
+│   │   │   ├── Brahmana
+│   │   │   ├── Aranyaka
+│   │   │   └── Upanishad
+│   │   ├── Yajurveda
+│   │   │   ├── Samhita
+│   │   │   ├── Brahmana
+│   │   │   ├── Aranyaka
+│   │   │   └── Upanishad
+│   │   ├── Samaveda
+│   │   │   ├── Samhita
+│   │   │   ├── Brahmana
+│   │   │   ├── Aranyaka
+│   │   │   └── Upanishad
+│   │   └── Atharvaveda
+│   │       ├── Samhita
+│   │       ├── Brahmana
+│   │       ├── Aranyaka
+│   │       └── Upanishad
+│   │
+│   ├── Vedangas (6 limbs of Vedic study)
+│   │   ├── Shiksha       — phonetics
+│   │   ├── Vyakarana     — grammar
+│   │   ├── Chhanda       — metre
+│   │   ├── Nirukta       — etymology
+│   │   ├── Jyotisha      — astronomy/timing
+│   │   └── Kalpa         — ritual procedure
+│   │       ├── Shrauta Sutras   — public/solemn ritual
+│   │       ├── Grihya Sutras    — domestic ritual
+│   │       ├── Dharma Sutras    — conduct & law (proto-Dharmashastra)
+│   │       └── Shulba Sutras    — altar geometry & measurement
+│   │
+│   └── Upavedas (4 — applied knowledge; associations vary by source, see 5A5)
+│       ├── Ayurveda        — medicine
+│       ├── Dhanurveda      — archery / warfare
+│       ├── Gandharvaveda   — music, dance, arts
+│       └── Arthashastra    — statecraft / economics
+│           (variant: Sthapatyaveda — architecture)
+│
+├── Smriti (remembered tradition — paurusheya, authored)
+│   ├── Upangas (4 traditional "sub-limbs" — often the most overlooked layer)
+│   │   ├── Nyaya            — logic (name shared with the Darshana)
+│   │   ├── Mimamsa          — exegesis (covers both Purva & Uttara Mimamsa)
+│   │   ├── Itihasa-Purana   — "the fifth Veda" (see 5B3–5B4)
+│   │   │   ├── Itihasa
+│   │   │   │   ├── Ramayana
+│   │   │   │   └── Mahabharata
+│   │   │   │       └── Bhagavad Gita (embedded, not separate)
+│   │   │   └── Purana
+│   │   │       ├── 18 Mahapuranas (full list, 5B4)
+│   │   │       └── 18 Upapuranas (variable list, 5B4)
+│   │   └── Dharmashastra    — codes of law & conduct (the Smritis proper)
+│   │
+│   ├── Sutra Literature (practical support; overlaps with Vedanga/Kalpa)
+│   │   ├── Shrauta Sutra
+│   │   ├── Grihya Sutra
+│   │   ├── Dharma Sutra
+│   │   └── Shulba Sutra
+│   │
+│   └── auxiliary Smriti traditions (Grihya customs, regional Achara texts, etc.)
+│
+├── Darshanas (philosophical systems / "viewpoints")
+│   ├── Astika (6 — accept Vedic authority), traditionally paired
+│   │   ├── Nyaya            ─┐ pair 1: epistemology & physics
+│   │   ├── Vaisheshika      ─┘
+│   │   ├── Samkhya          ─┐ pair 2: metaphysics & practice
+│   │   ├── Yoga             ─┘
+│   │   ├── Purva Mimamsa    ─┐ pair 3: ritual & knowledge
+│   │   └── Uttara Mimamsa   ─┘ (= Vedanta)
+│   │       ├── Prasthanatrayi
+│   │       │   ├── Upanishads      — Shruti Prasthana
+│   │       │   ├── Brahma Sutras   — Nyaya/Sutra Prasthana
+│   │       │   └── Bhagavad Gita   — Smriti/Sadhana Prasthana
+│   │       └── major Vedanta streams
+│   │           ├── Advaita (non-dualism)
+│   │           ├── Vishishtadvaita (qualified non-dualism)
+│   │           ├── Dvaita (dualism)
+│   │           ├── Dvaitadvaita, Shuddhadvaita, Achintya Bheda Abheda...
+│   │           └── other sampradaya-linked sub-schools
+│   │
+│   └── Nastika (3 core — do not accept Vedic authority as supreme)
+│       ├── Bauddha (Buddhism)
+│       ├── Jaina (Jainism)
+│       └── Charvaka / Lokayata (materialism)
+│       [Ajivika is often added as a 4th in broader classifications — see 6.4]
+│
+└── Agama / Tantra literature — TWO related but distinct classifications:
+    │
+    ├── (a) The Agama textual corpus proper — 3 branches
+    │   ├── Shaiva Agamas       (~28 canonical texts)
+    │   ├── Vaishnava Agamas    (~108, aka Pancharatra Samhitas)
+    │   │   ├── Pancharatra
+    │   │   └── Vaikhanasa
+    │   └── Shakta Agamas / Tantras  (~64)
+    │
+    └── (b) The Shanmata — six-fold Smarta worship tradition
+        (organizes household/temple worship around six deities;
+         popularized by Adi Shankaracharya; not itself a 4th Agama branch)
+        ├── Shaiva     → Shiva
+        ├── Vaishnava  → Vishnu
+        ├── Shakta     → Devi / Shakti
+        ├── Ganapatya  → Ganesha
+        ├── Kaumara    → Kartikeya / Murugan
+        └── Saura      → Surya
 
-    B --> B1[Rigveda]
-    B --> B2[Yajurveda]
-    B --> B3[Samaveda]
-    B --> B4[Atharvaveda]
-
-    B1 --> B1a[Saṃhitā]
-    B1 --> B1b[Brāhmaṇa]
-    B1 --> B1c[Āraṇyaka]
-    B1 --> B1d[Upaniṣad]
-
-    B2 --> B2a[Saṃhitā]
-    B2 --> B2b[Brāhmaṇa]
-    B2 --> B2c[Āraṇyaka]
-    B2 --> B2d[Upaniṣad]
-
-    B3 --> B3a[Saṃhitā]
-    B3 --> B3b[Brāhmaṇa]
-    B3 --> B3c[Āraṇyaka]
-    B3 --> B3d[Upaniṣad]
-
-    B4 --> B4a[Saṃhitā]
-    B4 --> B4b[Brāhmaṇa]
-    B4 --> B4c[Āraṇyaka]
-    B4 --> B4d[Upaniṣad]
-
-    C --> C1[Śikṣā]
-    C --> C2[Vyākaraṇa]
-    C --> C3[Chandas]
-    C --> C4[Nirukta]
-    C --> C5[Jyotiṣa]
-    C --> C6[Kalpa]
-
-    D --> D1[Āyurveda]
-    D --> D2[Dhanurveda]
-    D --> D3[Gāndharvaveda]
-    D --> D4[Arthaśāstra]
-
-    E --> E1[Dharmashāstra]
-    E --> E2[Purāṇas]
-    E --> E3[Itihāsas]
-    E --> E4[Mīmāṃsā and Nyāya]
-
-    F --> F1[Āstika]
-    F --> F2[Nāstika]
-
-    F1 --> F1a[Nyāya]
-    F1 --> F1b[Vaiśeṣika]
-    F1 --> F1c[Sāṃkhya]
-    F1 --> F1d[Yoga]
-    F1 --> F1e[Pūrva Mīmāṃsā]
-    F1 --> F1f[Vedānta]
-
-    F2 --> F2a[Bauddha]
-    F2 --> F2b[Jaina]
-    F2 --> F2c[Cārvāka]
-
-    G --> G1[Prasthānatrayī]
-    G1 --> G1a[Upaniṣads]
-    G1 --> G1b[Bhagavad Gītā]
-    G1 --> G1c[Brahma Sūtras]
-
-    H --> H1[Śaiva]
-    H --> H2[Vaiṣṇava]
-    H --> H3[Śākta]
-    H --> H4[Gāṇapatya]
-    H --> H5[Kaumāra]
-    H --> H6[Saura]
 ```
 
 ---
