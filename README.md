@@ -11,7 +11,13 @@
 
 ## Quick Navigation
 
-[Overview](#overview) • [Meaning](#meaning) • [Structure Tree](#structure-tree) • [The Four Vedas](#the-four-vedas) • [Importance](#importance-of-śruti) • [Related Traditions](#related-but-distinct-from-śruti) • [Tags](#tags)
+[Overview](#overview)
+• [Meaning](#meaning) 
+• [Structure Tree](#structure-tree)
+• [The Four Vedas](#the-four-vedas)
+• [Importance](#importance-of-śruti)
+• [Related Traditions](#related-but-distinct-from-śruti)
+• [Tags](#tags)
 
 ---
 
