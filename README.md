@@ -140,7 +140,7 @@ Sanātana Dharma
 
 ```text
 Core Knowledge System
-├── Shruti (revealed / heard apaurusheya, authorless)
+├── Shruti (revealed / heard - apaurusheya, authorless)
 │   ├── 4 Vedas
 │   │   ├── Rigveda
 │   │   │   ├── Samhita
@@ -164,29 +164,29 @@ Core Knowledge System
 │   │       └── Upanishad
 │   │
 │   ├── Vedangas (6 limbs of Vedic study)
-│   │   ├── Shiksha       — phonetics
-│   │   ├── Vyakarana     — grammar
-│   │   ├── Chhanda       — metre
-│   │   ├── Nirukta       — etymology
-│   │   ├── Jyotisha      — astronomy/timing
-│   │   └── Kalpa         — ritual procedure
-│   │       ├── Shrauta Sutras   — public/solemn ritual
-│   │       ├── Grihya Sutras    — domestic ritual
-│   │       ├── Dharma Sutras    — conduct & law (proto-Dharmashastra)
-│   │       └── Shulba Sutras    — altar geometry & measurement
+│   │   ├── Shiksha       - phonetics
+│   │   ├── Vyakarana     - grammar
+│   │   ├── Chhanda       - metre
+│   │   ├── Nirukta       - etymology
+│   │   ├── Jyotisha      - astronomy/timing
+│   │   └── Kalpa         - ritual procedure
+│   │       ├── Shrauta Sutras   - public/solemn ritual
+│   │       ├── Grihya Sutras    - domestic ritual
+│   │       ├── Dharma Sutras    - conduct & law (proto-Dharmashastra)
+│   │       └── Shulba Sutras    - altar geometry & measurement
 │   │
-│   └── Upavedas (4 — applied knowledge; associations vary by source, see 5A5)
-│       ├── Ayurveda        — medicine
-│       ├── Dhanurveda      — archery / warfare
-│       ├── Gandharvaveda   — music, dance, arts
-│       └── Arthashastra    — statecraft / economics
-│           (variant: Sthapatyaveda architecture)
+│   └── Upavedas (4 - applied knowledge; associations vary by source, see 5A5)
+│       ├── Ayurveda        - medicine
+│       ├── Dhanurveda      - archery / warfare
+│       ├── Gandharvaveda   - music, dance, arts
+│       └── Arthashastra    - statecraft / economics
+│           (variant: Sthapatyaveda - architecture)
 │
-├── Smriti (remembered tradition paurusheya, authored)
-│   ├── Upangas (4 traditional "sub-limbs" often the most overlooked layer)
-│   │   ├── Nyaya            — logic (name shared with the Darshana)
-│   │   ├── Mimamsa          — exegesis (covers both Purva & Uttara Mimamsa)
-│   │   ├── Itihasa-Purana   — "the fifth Veda" (see 5B3–5B4)
+├── Smriti (remembered tradition - paurusheya, authored)
+│   ├── Upangas (4 traditional "sub-limbs" - often the most overlooked layer)
+│   │   ├── Nyaya            - logic (name shared with the Darshana)
+│   │   ├── Mimamsa          - exegesis (covers both Purva & Uttara Mimamsa)
+│   │   ├── Itihasa-Purana   - "the fifth Veda" (see 5B3–5B4)
 │   │   │   ├── Itihasa
 │   │   │   │   ├── Ramayana
 │   │   │   │   └── Mahabharata
@@ -194,7 +194,7 @@ Core Knowledge System
 │   │   │   └── Purana
 │   │   │       ├── 18 Mahapuranas (full list, 5B4)
 │   │   │       └── 18 Upapuranas (variable list, 5B4)
-│   │   └── Dharmashastra  codes of law & conduct (the Smritis proper)
+│   │   └── Dharmashastra    - codes of law & conduct (the Smritis proper)
 │   │
 │   ├── Sutra Literature (practical support; overlaps with Vedanga/Kalpa)
 │   │   ├── Shrauta Sutra
@@ -205,7 +205,7 @@ Core Knowledge System
 │   └── auxiliary Smriti traditions (Grihya customs, regional Achara texts, etc.)
 │
 ├── Darshanas (philosophical systems / "viewpoints")
-│   ├── Astika (6 accept Vedic authority), traditionally paired
+│   ├── Astika (6 - accept Vedic authority), traditionally paired
 │   │   ├── Nyaya            ─┐ pair 1: epistemology & physics
 │   │   ├── Vaisheshika      ─┘
 │   │   ├── Samkhya          ─┐ pair 2: metaphysics & practice
@@ -213,9 +213,9 @@ Core Knowledge System
 │   │   ├── Purva Mimamsa    ─┐ pair 3: ritual & knowledge
 │   │   └── Uttara Mimamsa   ─┘ (= Vedanta)
 │   │       ├── Prasthanatrayi
-│   │       │   ├── Upanishads      — Shruti Prasthana
-│   │       │   ├── Brahma Sutras   — Nyaya/Sutra Prasthana
-│   │       │   └── Bhagavad Gita   — Smriti/Sadhana Prasthana
+│   │       │   ├── Upanishads      - Shruti Prasthana
+│   │       │   ├── Brahma Sutras   - Nyaya/Sutra Prasthana
+│   │       │   └── Bhagavad Gita   - Smriti/Sadhana Prasthana
 │   │       └── major Vedanta streams
 │   │           ├── Advaita (non-dualism)
 │   │           ├── Vishishtadvaita (qualified non-dualism)
@@ -223,22 +223,22 @@ Core Knowledge System
 │   │           ├── Dvaitadvaita, Shuddhadvaita, Achintya Bheda Abheda...
 │   │           └── other sampradaya-linked sub-schools
 │   │
-│   └── Nastika (3 core do not accept Vedic authority as supreme)
+│   └── Nastika (3 core - do not accept Vedic authority as supreme)
 │       ├── Bauddha (Buddhism)
 │       ├── Jaina (Jainism)
 │       └── Charvaka / Lokayata (materialism)
-│       [Ajivika is often added as a 4th in broader classifications see 6.4]
+│       [Ajivika is often added as a 4th in broader classifications - see 6.4]
 │
-└── Agama / Tantra literature TWO related but distinct classifications:
+└── Agama / Tantra literature - TWO related but distinct classifications:
     │
-    ├── (a) The Agama textual corpus proper 3 branches
+    ├── (a) The Agama textual corpus proper - 3 branches
     │   ├── Shaiva Agamas       (~28 canonical texts)
     │   ├── Vaishnava Agamas    (~108, aka Pancharatra Samhitas)
     │   │   ├── Pancharatra
     │   │   └── Vaikhanasa
     │   └── Shakta Agamas / Tantras  (~64)
     │
-    └── (b) The Shanmata six-fold Smarta worship tradition
+    └── (b) The Shanmata - six-fold Smarta worship tradition
         (organizes household/temple worship around six deities;
          popularized by Adi Shankaracharya; not itself a 4th Agama branch)
         ├── Shaiva     → Shiva
