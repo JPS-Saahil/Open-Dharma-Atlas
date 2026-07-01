@@ -1,5 +1,4 @@
-# Sanātana Dharma Knowledge Tree
-
+# Open Dharma Atlas
 <p align="center">
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-blue)
